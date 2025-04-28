@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\migue\\source\\repos\\LoginAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86929E43-EC71-4ED3-BD96-9EEE8F503A18}|LoginAPI\\LoginAPI.csproj|c:\\users\\migue\\source\\repos\\loginapi\\loginapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{86929E43-EC71-4ED3-BD96-9EEE8F503A18}|LoginAPI\\LoginAPI.csproj|solutionrelative:loginapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86929E43-EC71-4ED3-BD96-9EEE8F503A18}|LoginAPI\\LoginAPI.csproj|c:\\users\\migue\\source\\repos\\loginapi\\loginapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{86929E43-EC71-4ED3-BD96-9EEE8F503A18}|LoginAPI\\LoginAPI.csproj|solutionrelative:loginapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\LoginAPI\\LoginAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "LoginAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\LoginAPI\\LoginAPI\\appsettings.json",
+              "RelativeToolTip": "LoginAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-26T07:59:29.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\LoginAPI\\LoginAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "LoginAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\LoginAPI\\LoginAPI\\appsettings.Development.json",
+              "RelativeToolTip": "LoginAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-25T00:48:53.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
